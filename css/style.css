@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-color: #EBE8E1;
+}
+
+#level{
+  font-size: 40px;
+  color: red;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Permanent Marker', cursive;
+  text-align: center;
+}
+
+@media screen and (max-width: 767px) {
+
+	body{
+		max-width: 360px;
+		min-height: 450px;
+
+	}
+
+}
